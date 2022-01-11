@@ -59,7 +59,15 @@ hr{
 
 /* top blogs styles */
 
+
+.blog{
+    display: flex;
+}
 .blog .thumbnail img{
     width: 177px;
     height: 117px;
+}
+
+.blog-info{
+    margin-left: 16px;
 }
